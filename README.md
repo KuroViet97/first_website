@@ -1,2 +1,1 @@
-# first_website
-Functional Programming
+#Functional Programming Learning
